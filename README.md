@@ -15,10 +15,6 @@ and help in performing prediction on a new URL. All these extracted features are
 in to a best suited machine learning algorithm. These features play a major role in classifying
 a URL whether a safe one or malicious.
 
-```sh {"id":"01HQBTCNH7S7CEB69DX9J2CK0X"}
-
-```
-
 The data we have used here is in high-level language which is first converted into machine-
 level language first and then these features are used as parameters to train the model. We have
 designed a web-app where the user can upload a file of URLs that he/she wants to predict and
