@@ -1,12 +1,5 @@
----
-runme:
-  id: 01HQBTCJR0P2PH1VSMBF6H7NX6
-  version: v3
----
 
-```sh {"id":"01HQBTCR744ZP22G89PJYXWW8D"}
-# A first-level heading DamnPhish
-```
+#  DamnPhish
 
 Phishing is a type of cyber threat practice where, the intruder acts as a trustworthy entity and
 attempts to steal sensitive information such as Login Credentials, Credit and Debit card details
